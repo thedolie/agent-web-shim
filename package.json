@@ -1,0 +1,19 @@
+{
+  "name": "agent-web-shim",
+  "version": "0.1.0",
+  "description": "agent to agent style web shim in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedolie/agent-web-shim.git"
+  },
+  "author": "Joe Genereux ~https://github.com/thedolie/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedolie/agent-web-shim/issues"
+  },
+  "homepage": "https://github.com/thedolie/agent-web-shim#readme"
+}
