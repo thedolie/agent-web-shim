@@ -22,7 +22,7 @@ npm 6+
 ### Installing
 
 ```
-npm -i indy-web-shim --save
+npm -i agent-web-shim --save
 ```
 
 ## Running the tests
